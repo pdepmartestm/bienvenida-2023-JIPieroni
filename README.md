@@ -1,6 +1,7 @@
  # Juan Ignacio Pieroni
  ## 208.110-6
-Mi nombres es Juan (me dicen "Nacho") , tengo 21 años y soy estudiante de ingenieria en sistemas, en la UTN.  
+Mi nombres es Juan (me dicen "Nacho") , tengo 21 años y soy estudiante de ingenieria en sistemas, en la UTN. Es mi segundo año en la UTN , me egrese en 2019 de un bachiller en sociales, y antes de arrancar a estudiar ingenieria, y que arranque la pandemia ,estudie un cuatrmiestre en abogacia.  
+
 Me gusta mucho :
 - jugar al futbol 
 - la matematica
