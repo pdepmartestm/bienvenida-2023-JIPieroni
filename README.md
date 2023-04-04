@@ -12,3 +12,9 @@ Me gusta mucho :
  ESTOS SON MIS GATITOS: Suerte(la de blanco y negro), Grey(el gris), Oreli(la de varios colores) 
  
  ![Mis Gatos](https://user-images.githubusercontent.com/129225397/228367414-424f28be-c90d-4203-b840-01fa531048e9.jpg "Estos son mis gatos")
+ 
+![yo](https://user-images.githubusercontent.com/129225397/229666302-87a62848-924e-4a29-9738-d10000dc4e79.jpeg)
+
+ 
+ 
+ 
